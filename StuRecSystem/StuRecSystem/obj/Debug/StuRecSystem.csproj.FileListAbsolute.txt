@@ -1,0 +1,12 @@
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\bin\Debug\StuRecSystem.exe.config
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\bin\Debug\StuRecSystem.exe
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\bin\Debug\StuRecSystem.pdb
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\obj\Debug\StuRecSystem.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\obj\Debug\StuRecSystem.FrmLogin.resources
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\obj\Debug\StuRecSystem.FrmStudentPage.resources
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\obj\Debug\StuRecSystem.FrmTeachersPage.resources
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\obj\Debug\StuRecSystem.Properties.Resources.resources
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\obj\Debug\StuRecSystem.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\obj\Debug\StuRecSystem.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\obj\Debug\StuRecSystem.exe
+C:\Users\Monster\Desktop\StuRecSystem\StuRecSystem\obj\Debug\StuRecSystem.pdb
